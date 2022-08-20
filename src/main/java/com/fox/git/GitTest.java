@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("update");
         System.out.println("uodate hot-fix");
         System.out.println("master test");
+        System.out.println("upate2");
     }
 }
