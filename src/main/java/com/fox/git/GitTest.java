@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("upate2");
         System.out.println("push");
+        System.out.println("123156479");
     }
 }
